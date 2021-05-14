@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "https://kind-stone-01e81a103.azurestaticapps.net/"
 languageCode = "en-us"
-title = "Spectre Pixel Theme"
+title = "#AzureTechTalk"
 theme = "spectre-pixel"
 
 # Enter your tracking code to enable Google Analytics
