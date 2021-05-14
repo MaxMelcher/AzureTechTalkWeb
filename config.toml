@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://kind-stone-01e81a103.azurestaticapps.net/"
+baseurl = "https://azuretechtalk.net/"
 languageCode = "en-us"
 title = "#AzureTechTalk"
 theme = "spectre-pixel"
