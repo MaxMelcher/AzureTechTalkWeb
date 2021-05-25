@@ -1,3 +1,3 @@
-# Vanilla JavaScript App
+# #AzureTechTalk 
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+This is the repository of our website [#AzureTechTalk](https://azuretechtalk.net)
