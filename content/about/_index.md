@@ -9,33 +9,32 @@ menu: "main"
 <img src="/about/FrankMax.png" alt="Frank (left) and Max (right)">
 
 ### General Topics
-{{< tag "Azure Apps and Infra" >}}
-{{< tag "Kubernetes" >}}
-{{< tag "DevOps" >}}
 
-### Topics so far
+* Azure Apps and Infra
+* Kubernetes
+* DevOps
+
+### Specifc topics and technologies (so far)
 
 * Azure Static Websites
 * GitHub Actions
 
 ### Frank Oltmanns-Mack
-
 > Digital Native and IT Enthusiast
 
 Frank Oltmanns-Mack is a Cloud Solution Architect working at Microsoft in Cologne, Germany. Frank is known for his expertise in Azure Architecture and enterprise implementations, Kubernetes. He has a broad enterprise background, so Mainframe, VMWare and other enterprise topics are his speciality.
 In his free time, he runs this stream, a podcast and other 'digital native' things.
 
-- 🔭 I’m currently working on: Enterprise Landing Zones, Governance, Cost Management, Kubernetes, Azure Networking for one large enterprise customer in Germany
-- 🌱 I’m currently learning: Kubernetes, Kubernetes, Kubernetes - and how to run a stream on Twitch.
-- 👯 I’m looking to collaborate on my side project: [Azure DevOps Wiki PDF Export](https://github.com/MaxMelcher/AzureDevOps.WikiPDFExport), a few issues are up for grab.
-- 💬 Ask me about: Anything #Azure related
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: K
+- 👯 I’m looking to collaborate on my side project: 
+- 💬 Ask me about: 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [@Frank_O_M](https://twitter.com/Frank_O_M) on twitter or [LinkedIn](https://www.linkedin.com/in/frankoltmannsmack/).
 - 🎥 You can see me live on Twitch: [twitch.tv/starkilla](twitch.tv/starkilla)
 - 💻 GitHub [github.com/starkilla2003](github.com/starkilla2003)
 
 ### Max Melcher
-
 > Scaling things until they break - and coffee.
 
 Maximilian Melcher is a Cloud Solution Architect working at Microsoft in Munich, Germany. Max is a specialist in Azure cloud technologies focused on Application Development, DevOps and Lift&Shift in an enterprise context. He has led cloud implementations for Dax 30 companies since 2009. Max’ free time is spent on twitter, mostly with a good coffee in his hands - or below real clouds when he flies with his paraglider.

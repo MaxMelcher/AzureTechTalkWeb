@@ -1,21 +1,21 @@
 # Site settings
 baseurl = "https://azuretechtalk.net/"
 languageCode = "en-us"
-title = "#AzureTechTalk"
+title = "Azure #TechTalk"
 theme = "spectre-pixel"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
 [params]
-  name = "#AzureTechTalk"
-  altName = ""
+  name = "Azure"
+  altName = "#TechTalk"
   description = ""
   bio = "We talk about Azure, deploy stuff and have fun"
   enableRSS = true
 
   # Author information in posts
-  aboutAuthor = ""
+  aboutAuthor = "Azure #TechTalk"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -42,14 +42,15 @@ googleAnalytics = ""
 
 # Add additional social link entries underneath
 [social]
-#	email    = "john.doe@email.com"
-	github   = "https://www.github.com/maxmelcher/azuretechtalk"
-	linkedin1 = "https://www.linkedin.com/maxmelcher"
-	linkedin2 = "https://www.linkedin.com/frankoltmannsmack"
+	#email    = "feedback@azuretechtalk.net"
+	github   = "https://www.github.com/maxmelcher/azuretechtalkweb"
+	linkedin1 = "https://www.linkedin.com/in/maxmelcher"
+	linkedin2 = "https://www.linkedin.com/in/frankoltmannsmack"
 	twitter  = "https://www.twitter.com/azuretechtalk"
 
 [taxonomies]
   tag = "tags"
+  episode = "episode"
 
 [markup.goldmark.renderer]
 unsafe= true

@@ -54,7 +54,7 @@
     --color-dark-bg: #212121;
     --color-light: #fff;
     --color-light-bg: #f2f2f2;
-    --profile-src: url("../images/avatar.png");
+    --profile-src: url("/about/FrankMax.png");
 }
 [data-theme='pixel'] {
     --font-family: "Pixel";
@@ -84,19 +84,40 @@
     --color-dark-bg: #262b44;
     --color-light: #ffffff;
     --color-light-bg: #2ce8f5;
-    --profile-src: url("../images/pixel.png");
+    --profile-src: url("/about/FrankMax.png");
 }
 .shadow {
     box-shadow: .2rem .2rem .5rem rgba(87,85,217,.2);
 }
 .avatar.avatar-profile{
     height: 150px;
-    width: 150px;
+    width: 300px;
 }
 #profile {
     background: var(--profile-src);
     background-size: cover;
 }
+
+.avatar img
+{
+    border-radius:5%;
+}
+
+blockquote
+{
+  border-left: 0.1rem dotted var(--color-primary);
+}
+
+.title span
+{
+    font-weight: 1000 !important;
+}
+
+.azure
+{
+    color: var(--color-primary);
+}
+
 .symbol {
     display: inline-block;
     color: var(--color-gray-light);
