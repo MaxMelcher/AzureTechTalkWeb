@@ -8,14 +8,14 @@ theme = "spectre-pixel"
 googleAnalytics = ""
 
 [params]
-  name = "John Doe"
-  altName = "John"
-  description = "Describe your website"
-  bio = "#AzureTechTalk"
+  name = "#AzureTechTalk"
+  altName = ""
+  description = ""
+  bio = "We talk about Azure, deploy stuff and have fun"
   enableRSS = true
 
   # Author information in posts
-  aboutAuthor = "I'm a Programmer."
+  aboutAuthor = ""
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -34,7 +34,7 @@ googleAnalytics = ""
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
-	copyright = ""
+	copyright = "Frank Oltmanns-Mack, Max Melcher, 2021"
 
 	# 404 page
 	title404 = ""
@@ -42,10 +42,14 @@ googleAnalytics = ""
 
 # Add additional social link entries underneath
 [social]
-	email    = "john.doe@email.com"
-	github   = "https://www.github.com/"
-	linkedin = "https://www.linkedin.com/"
-	twitter  = "https://www.twitter.com/"
+#	email    = "john.doe@email.com"
+	github   = "https://www.github.com/maxmelcher/azuretechtalk"
+	linkedin1 = "https://www.linkedin.com/maxmelcher"
+	linkedin2 = "https://www.linkedin.com/frankoltmannsmack"
+	twitter  = "https://www.twitter.com/azuretechtalk"
 
 [taxonomies]
   tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe= true
