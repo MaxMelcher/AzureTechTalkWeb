@@ -1,21 +1,21 @@
 # Site settings
 baseurl = "https://azuretechtalk.net/"
 languageCode = "en-us"
-title = "Azure #TechTalk"
+title = "#AzureTechTalk"
 theme = "spectre-pixel"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
 [params]
-  name = "Azure"
-  altName = "#TechTalk"
+  name = "#AzureTechTalk"
+  altName = ""
   description = ""
   bio = "We talk about Azure, deploy stuff and have fun"
   enableRSS = true
 
   # Author information in posts
-  aboutAuthor = "Azure #TechTalk"
+  aboutAuthor = "#AzureTechTalk"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
