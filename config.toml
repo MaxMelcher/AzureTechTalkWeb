@@ -46,7 +46,7 @@ googleAnalytics = ""
 	github   = "https://www.github.com/maxmelcher/azuretechtalkweb"
 	linkedin1 = "https://www.linkedin.com/in/maxmelcher"
 	linkedin2 = "https://www.linkedin.com/in/frankoltmannsmack"
-	twitter  = "https://www.twitter.com/azuretechtalk"
+	twitter  = "https://www.twitter.com/TalkAzure"
 
 [taxonomies]
   tag = "tags"
