@@ -48,6 +48,7 @@ googleAnalytics = ""
 	linkedin2 = "https://www.linkedin.com/in/frankoltmannsmack"
 	twitter  = "https://www.twitter.com/TalkAzure"
   twitch   = "https://www.twitch.tv/azure_tech_talk"
+  youtube = "https://www.youtube.com/@azuretechtalk"
 
 [taxonomies]
   tag = "tags"
