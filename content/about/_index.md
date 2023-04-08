@@ -7,6 +7,8 @@ menu: "main"
 
 > We are Frank and Max - and we both love to talk about Azure. Some things work, some things do not - but we keep on learning and sharing on the way. Join us on this journey, feel free to ask questions.
 
+We will stream live on [Twitch](https://www.twitch.tv/azure_tech_talk) and the videos will be available on [YouTube](https://www.youtube.com/@azuretechtalk). We will also publish the videos on our blog.
+
 <img src="/about/FrankMax.png" alt="Frank (left) and Max (right)">
 
 ### General Topics
